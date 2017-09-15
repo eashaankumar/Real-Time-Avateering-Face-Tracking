@@ -1,3 +1,3 @@
 # Real Time Avateering Face Tracking
-**University of Maryland - College Park** <br />
+**University of Maryland - College Park** 
 **Eashaan Kumar, Professor Matthias Zwicker** <br />
