@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Eashaan Kumar\Documents\MyCppCode\UltimateVision\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Eashaan Kumar\Documents\MyCppCode\UltimateVision\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{901EB5F0-DC7E-3725-A600-6A29F8151B69}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

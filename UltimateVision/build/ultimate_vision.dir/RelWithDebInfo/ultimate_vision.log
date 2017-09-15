@@ -1,0 +1,8 @@
+﻿  Building Custom Rule C:/Users/Eashaan Kumar/Documents/MyCppCode/UltimateVision/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/Eashaan Kumar/Documents/MyCppCode/UltimateVision/build/CMakeFiles/generate.stamp is up-to-date.
+  main.cpp
+C:\Users\Eashaan Kumar\Documents\MyCppCode\UltimateVision\src\main.cpp(92): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\WinSock2.h(1830): note: see declaration of 'inet_addr'
+     Creating library C:/Users/Eashaan Kumar/Documents/MyCppCode/UltimateVision/build/RelWithDebInfo/ultimate_vision.lib and object C:/Users/Eashaan Kumar/Documents/MyCppCode/UltimateVision/build/RelWithDebInfo/ultimate_vision.exp
+  ultimate_vision.vcxproj -> C:\Users\Eashaan Kumar\Documents\MyCppCode\UltimateVision\build\RelWithDebInfo\ultimate_vision.exe
+  ultimate_vision.vcxproj -> C:/Users/Eashaan Kumar/Documents/MyCppCode/UltimateVision/build/RelWithDebInfo/ultimate_vision.pdb (Full PDB)

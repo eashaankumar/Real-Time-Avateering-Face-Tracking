@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Eashaan Kumar\Documents\MyCppCode\UltimateVision\src\main.cpp(51): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Eashaan Kumar\Documents\MyCppCode\UltimateVision\src\main.cpp(99): warning C4091: '__declspec(dllexport)': ignored on left of 'DEST_FEEDBACK' when no variable is declared
+C:\Users\Eashaan Kumar\Documents\MyCppCode\UltimateVision\src\main.cpp(180): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Eashaan Kumar\Documents\MyCppCode\UltimateVision\src\main.cpp(187): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+     Creating library C:/Users/Eashaan Kumar/Documents/MyCppCode/UltimateVision/build/Release/ultimate_vision.lib and object C:/Users/Eashaan Kumar/Documents/MyCppCode/UltimateVision/build/Release/ultimate_vision.exp
+  ultimate_vision.vcxproj -> C:\Users\Eashaan Kumar\Documents\MyCppCode\UltimateVision\build\Release\ultimate_vision.dll
